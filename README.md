@@ -1,6 +1,6 @@
 # rohitkanteti
  
-![Rohit Kanteti's-cover](./cover-img.png)
+
 ## 🧔 About Me
 
 - 🔭 I’m currently a participant of [GSSoC'21](https://gssoc.girlscript.tech/)
