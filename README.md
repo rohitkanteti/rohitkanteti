@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a participant of [GSSoC'21](https://gssoc.girlscript.tech/)
 
-- 🌱 I’m currently learning **AppDev with Flutter, DSA in Cpp,Quantum Computing with IBM Quantum**
+- 🌱 I’m currently learning **DSA in Cpp,Quantum Computing with IBM Quantum**
 
 - 📝 I  wrote an article on [Catalan Numbers](https://medium.com/ieee-manipal/catalan-numbers-4993f7fd57ff)
 
