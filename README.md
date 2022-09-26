@@ -3,7 +3,7 @@
 
 ## 🧔 About Me
 
-- 🌱 I’m currently learning **DSA ,Quantum Computing with IBM Quantum**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,Quantum Computing with IBM Quantum**
 
 - 📝 I  wrote an article on [Catalan Numbers](https://medium.com/ieee-manipal/catalan-numbers-4993f7fd57ff)
 
